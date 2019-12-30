@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=echo.viedo.unit8 -DartifactId=javaVideo -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
